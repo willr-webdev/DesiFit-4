@@ -571,13 +571,18 @@ font-size: 1rem;
 }
 
 .cta-text {
-
+  padding: 1.75rem;
+  font-size: 1rem;
 }
 
 .cta-btn {
-
+  background-color: yellow;
 }
 
+.cta-btn:hover {
+  font-size: 1.15rem;
+  font-weight: bold;
+}
 
 /*
 FOOTER
