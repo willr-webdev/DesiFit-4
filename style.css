@@ -552,11 +552,18 @@ div.post-description {
 
 /* COACHING page */
 .coaching-page-wrapper {
+  display: flex;
+  flex-direction: column;
+}
 
+.coaching-page-wrapper img {
+  align-self: center;
 }
 
 .coaching-hero-text {
-
+text-align: justify;
+padding: 1.5rem;
+font-size: 1rem;
 }
 
 .coaching-carousel {
@@ -568,7 +575,7 @@ div.post-description {
 }
 
 .cta-btn {
-  
+
 }
 
 
