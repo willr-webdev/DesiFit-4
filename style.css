@@ -300,7 +300,7 @@ MAIN
         border:0;
       }
 
-  /* My Story page */
+  /* MY STORY page */
   .hero-video {
     display: flex;
     flex-direction: column;
@@ -332,7 +332,7 @@ MAIN
     padding: 1rem;
   }
 
-  /* Blog page */
+  /* BLOG page */
 .blog-page-wrapper {
   display: flex;
   flex-direction: column;
@@ -551,7 +551,25 @@ div.post-description {
 }
 
 /* COACHING page */
+.coaching-page-wrapper {
 
+}
+
+.coaching-hero-text {
+
+}
+
+.coaching-carousel {
+
+}
+
+.cta-text {
+
+}
+
+.cta-btn {
+  
+}
 
 
 /*
