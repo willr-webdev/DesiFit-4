@@ -601,12 +601,16 @@ flex: 1;
 }
 
 .cta-text {
-  padding: 1.75rem;
+  padding:1.75rem;
   font-size: 1rem;
+  /* border-top: 2px solid yellow; */
+  background-color: rgba(0,0,0, .75);
+  color: whitesmoke;
 }
 
 .cta-btn {
   background-color: yellow;
+  margin-bottom: 3rem;
 }
 
 .cta-btn:hover {
